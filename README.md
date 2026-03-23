@@ -1,0 +1,52 @@
+# Sān-Z和HOYO-MiX – My Curse, My Fate
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:22.65] Ma vie est fade comme la poussière
+[00:27.20] Mon démon intérieur ne me laisse aucun répit
+[00:33.11] Les paroles malveillantes laissent des cicatrices profondes
+[00:39.44] Qui restent ouvertes, que puis-je y faire
+[00:45.20] Ma vie se résume à subir du mépris et à survivre dans la souffrance
+[00:53.84] Pourquoi est-ce à moi de porter le chapeau alors que je ne suis pas fautif
+[01:02.32] Noblesse et misère seraient-ce de la chance
+[01:23.82] 
+[01:07.27] Quel sera mon choix entre le chemin d'épine et celui de rosé?
+[01:13.61] Au lancer de cette pièce, je céderai ou je résisterai
+[01:19.03] Si je ne suis que la marionnette de mon destin
+[01:24.92] Quel est mon rôle dans cette intrigue où l'espoir est vain, est vain
+[01:31.73] (Oh death, I own my fate)
+[01:33.71] (Life, oh death, I own my fate)
+[01:49.21] 
+[01:36.94] Ma vie, n'est que souffrance
+[01:41.58] Suis-je assez digne d'un bonheur
+[01:44.30] Et d'une chaleur éphémère
+[01:47.68] La vie m'amène les âmes
+[01:50.18] Avec véhémence
+[01:53.55] Mais elle offre parfois
+[01:55.84] Des pièces par clémence
+[02:00.69] Je ne devrais pas exister
+[02:13.19] 
+[02:21.45] Quel sera mon choix entre le chemin d'épine et celui de rosé
+[02:27.91] Au lancer de cette pièce, je céderai ou je résisterai
+[02:33.40] J'aimerais que ces fils, n'est qu'une utopie pour une marionnée
+[02:38.85] Ton cœur et le sang
+[02:40.52] Des rares verloque t'apportera la solution
+[03:01.52] 
+[02:46.32] Je refuse d'entendre le son du glas
+[02:52.34] Je veux que les pensées se tournent vers moi
+[02:58.08] Je crois en moi, je serai mon propre maître
+[03:03.44] Je m'en remets au destin, car il incarne ma volonté
+[03:28.94] 
+[03:10.28] Quel sera mon choix entre le chemin d'épines et celui de roses
+[03:16.34] Et au lancer de cette pièce, je céderai ou je résisterai
+[03:23.14] À part tous ces préceptes prétentieux
+[03:27.69] Je tournerai et déchirerai la page de mon
+[03:33.79] Quel sera mon choix entre le chemin d'épines et celui de roses
+[03:39.35] Et au lancer de cette pièce, je céderai ou je résisterai
+[03:44.84] Mon destin se pliera à ma volonté
+[03:50.71] Quant à moi, je suis d'or et n'avons-nous qu'un maître comme maître
+[04:24.21] 
+[03:57.33] (Oh death, I own my fate)
+[03:59.26] (Life, oh death, I set my fate)
+```
