@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "My Curse, My Fate",
+  "base_artist": "Sān-Z和HOYO-MiX",
+  "createdAt": "2026-03-23T14:06:24.426475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Curse, My Fate",
+      "artist": "Sān-Z",
+      "has_synced": true,
+      "path": "select/01_My_Curse,_My_Fate_Sān-Z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Curse, My Fate",
+      "artist": "Sān‐Z",
+      "has_synced": true,
+      "path": "select/02_My_Curse,_My_Fate_Sān‐Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Curse, My Fate",
+      "artist": "Sān-Z, HOYO-MiX",
+      "has_synced": true,
+      "path": "select/03_My_Curse,_My_Fate_Sān-Z,_HOYO-MiX.lrc"
+    }
+  ]
+}
